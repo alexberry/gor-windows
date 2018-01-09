@@ -19,3 +19,5 @@ Try and use npcap instead:
 https://nmap.org/npcap/
 
 Use the installer, leave all settings default but tick "install in winpcap api compatibility mode"
+
+Works on my local...
